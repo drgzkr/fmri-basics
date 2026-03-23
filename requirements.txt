@@ -1,0 +1,8 @@
+nilearn>=0.10
+nibabel>=5.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+ipywidgets>=8.0
+tqdm>=4.65
+jupyterlab>=4.0
