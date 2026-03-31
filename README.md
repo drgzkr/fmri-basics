@@ -9,7 +9,7 @@ A growing collection of Jupyter notebooks for fMRI data analysis aimed at studen
 | 01 | `01_preprocessing_qc.ipynb` | Load a preprocessed NIfTI, print the header, extract Schaefer ROI timeseries, plot ROI×Time, ROI×ROI FC, and Time×Time correlation matrices; same inspection at the voxel level for one ROI |
 | 02 | `02_atlas_surface_projection.ipynb` | Load the Schaefer atlas, project it onto the fsaverage surface, interactively highlight individual ROIs or whole networks |
 | 03 | `03_nifti_surface_projection.ipynb` | Project any 3D NIfTI stat map onto the inflated brain surface |
-| 04 | `04_glm_and_fir.ipynb` | GLM with canonical HRF (one beta per condition) and FIR (peri-event time course); single- and two-condition examples; runs on synthetic data — no files needed |
+| 04 | `04_glm_and_fir.ipynb` | GLM with canonical HRF (one beta per condition) and FIR (peri-event time course); single- and two-condition examples; runs on synthetic data so no files needed |
 
 ## Setup
 
