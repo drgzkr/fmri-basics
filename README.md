@@ -1,6 +1,6 @@
 # fMRI Basics
 
-A growing collection of Jupyter notebooks for fMRI data analysis — aimed at students and collaborators getting started with neuroimaging in Python.
+A growing collection of Jupyter notebooks for fMRI data analysis aimed at students getting started with neuroimaging in Python.
 
 ## Notebooks
 
